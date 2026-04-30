@@ -1,6 +1,6 @@
 # AgentIndex - The Ultimate AI Agent Evaluation & Indexing Platform
 
-🌐 **[Visit the Official Website](https://agentindex.tech)** *(Replace with your actual URL if different)*
+🌐 **[Visit the Official Website](https://agentindex.tech)**
 
 ## Overview
 AgentIndex is a comprehensive SaaS platform designed to evaluate, benchmark, and index Artificial Intelligence (AI) agents and Large Language Models (LLMs). It provides a unified dashboard to assess the performance, safety, and capabilities of autonomous agents.
